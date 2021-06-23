@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+It is a react application which fetches real-time data from API regarding situation of Covid-19 cases all over India
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
